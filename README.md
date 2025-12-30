@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
 
-<!--
-**WizardXSC/WizardXSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Passionate Developer | Exploring Multiple Programming Languages</h3>
 
-Here are some ideas to get you started:
+<!--<p align="center">
+  <img src="https://github.com/WizardXSC/WizardXSC/raw/main/banner.jpg" alt="Banner" />
+</p>-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+I'm a developer who loves experimenting with different technologies and programming languages.  
+On this profile, I'll be uploading various projects written in multiple languages — from web development to scripting, systems programming, and more.
+
+- 🔭 Currently working on personal projects across different stacks  
+- 🌱 Always learning new languages and tools  
+- 👯 Open to collaboration on interesting ideas  
+- 💬 Feel free to ask me about programming, tech, or any project here  
+- 📫 Reach me: [your.email@example.com]  
+
+### 🛠️ Languages & Tools I Use
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,go,java,c,cpp,react,nodejs,git,docker,linux&perline=8" />
+</p>
