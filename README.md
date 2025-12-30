@@ -18,5 +18,5 @@ On this profile, I'll be uploading various projects written in multiple language
 
 ### 🛠️ Languages & Tools I Use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,lua,cpp,c#,photoshop&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,lua,cpp,cs,dotnet,photoshop&perline=8" />
 </p>
